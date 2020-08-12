@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#F44336</color>
-    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryDarkCustom">#3700B3</color>
+    <!-- colorPrimaryDark changed to complement the color of the upper section of the app -->
+    <color name="colorPrimaryDark">#BC3329</color>
     <color name="colorAccent">#03DAC5</color>
+    <!-- All other used colors defined below -->
     <color name="whiteText">#FFF</color>
     <color name="upperColor">#F44336</color>
     <color name="lowerColor">#673AB7</color>
