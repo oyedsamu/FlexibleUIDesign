@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flexible UI Design</string>
+    <string name="main_caption">Welcome to app</string>
+    <string name="description">3666 businesses signed up last week. \nTry Acme free for 30 days</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="contentDesc">Phone image placed in the middle</string>
+</resources>

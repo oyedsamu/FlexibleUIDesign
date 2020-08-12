@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <!-- Dark Mode styling or theme here -->
+<!--    <style name="AppTheme." parent="ThemeOverlay.AppCompat.Dark">-->
+<!--        <item name="colorPrimary"></item>-->
+<!--        <item name="colorPrimaryDark"></item>-->
+<!--        <item name="colorAccent"></item>-->
+<!--    </style>-->
+
+    <!-- Put in a style here for making the main text bold and the size of it -->
+
+
+</resources>
